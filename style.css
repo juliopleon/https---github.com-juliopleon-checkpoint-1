@@ -1,0 +1,42 @@
+.logo {
+    height: 50px;
+    border-radius: 70%;
+
+}
+
+.bg-image {
+    background-image: url("https://images.unsplash.com/photo-1544441893-675973e31985?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 60vh;
+}
+
+.spec {
+    margin-bottom: 0%;
+}
+
+.floating {
+    transform: translateY(3vh);
+    height: 12em;
+
+
+}
+
+.box-2 {
+    height: 6em;
+    border-radius: 5%;
+}
+
+.box-3 {
+    height: 4em;
+    border-radius: 4%;
+}
+
+.box-4 {
+    height: 18em;
+}
+
+.font {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
